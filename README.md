@@ -1,1 +1,1 @@
-# GFG---Django-Login-System
+# Minor Project---Django-Login-System
