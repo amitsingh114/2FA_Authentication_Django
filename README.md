@@ -1,6 +1,6 @@
 # Minor Project---Django-Login-System
 
-##Run this Project by following commands
+Run this Project by following commands
 
 pip install django
 
